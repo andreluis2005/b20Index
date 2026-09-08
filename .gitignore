@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.*
+
+# next.js
+.next/
+out/
+build/
+
+# env & secrets
+.env
+.env*.local
+.env*.production
+
+# logs
+*.log
+npm-debug.log*
+
+# os
+.DS_Store
+Thumbs.db
+
+# misc
+*.tsbuildinfo
+prices-test.json
+server.log
+server-err.log
