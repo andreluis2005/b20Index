@@ -23,6 +23,11 @@ export const metadata: Metadata = {
     description:
       "Seu índice de Coinbase Tokenized Stocks (B20) montado por IA e executado onchain na Base.",
     type: "website",
+    images: [{ url: "/og.png", width: 1200, height: 630, alt: "B20Index AI" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/og.png"],
   },
 };
 
