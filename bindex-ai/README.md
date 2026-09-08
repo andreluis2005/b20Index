@@ -23,7 +23,7 @@ Mini App criado para o **Base Builder Quest — Tokenized Stocks** (set/2026).
 
 ```bash
 npm install
-cp .env.example .env.local   # preencha OPENROUTER_API_KEY e ZEROX_API_KEY
+cp .env.example .env.local   # preencha OPENROUTER_API_KEY (obrigat�ria) e as opcionais
 npm run dev
 ```
 
@@ -38,4 +38,5 @@ node scripts/verify-onchain.mjs
 - Coinbase Tokenized Stocks são emitidos pela Coinbase sob Reg S — **apenas jurisdições elegíveis fora dos EUA**
 - Negociação secundária é permissionless; mint/redeem restrito a Authorized Participants
 - Este software é experimental; não constitui recomendação de investimento
+
 
