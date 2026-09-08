@@ -1,0 +1,1 @@
+deploy trigger: wagmi 2.19.5 pinned + legacy-peer-deps - 43c60ca+
