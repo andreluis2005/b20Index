@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "B20Index AI — seu índice de ações na Base",
   description:
     "Descreva o que você quer. A IA monta, executa e mantém seu portfólio de ações tokenizadas (B20) na Base.",
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL ?? "http://localhost:3000"),
+  metadataBase: new URL("https://b20-index.vercel.app"),
   openGraph: {
     title: "B20Index AI",
     description:
