@@ -223,7 +223,17 @@ Só se necessário. Código Solidity será **gerado para deploy manual via Remix
 
 ---
 
-## 10. Checklist final de submissão
+## 10. Registro de submissões (09/09/2026)
+
+| Submissão | Links enviados | Status |
+|---|---|---|
+| **Base Builder Quest — Tokenized Stocks** (formulário Google) | Loom: `https://www.loom.com/share/14201602e1974928a6f8504530970289` · App: `https://b20index.vercel.app` · Post no X marcando @buildonbase | ✅ Enviada |
+| **Base Batches 004** (`base.org/batches/apply`) | Mesmo app/Loom/repo + seções Company, Team, Product & Traction, Why Base | ✅ Enviada |
+
+**Resultado da quest**: divulgação a critério da Base, notificação por e-mail.
+**Batches 004**: aceitos anunciados **17/09/2026**; programa virtual 21/09–15/11; Demo Day NY 17/11.
+
+## 10.1 Checklist final de submissão (histórico)
 
 - [ ] Demo funcional e estável (URL pública)
 - [ ] Loom ≤ 3 min, áudio claro, marcando @buildonbase no post do X
